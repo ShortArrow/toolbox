@@ -23,6 +23,11 @@
 
 - <https://ossinsight.io/>
 - <https://trends.google.co.jp/trends/explore>
+- <https://tradingview.com/>
+- <https://www.tradingview.com/>
+- <https://coinmarketcap.com/>
+- <https://demo-futures.kraken.com/>
+- <https://www.coingecko.com/>
 
 ## 📐Math
 
@@ -52,3 +57,9 @@
 
 - <https://searx.org/search>
 - <https://duckduckgo.com/>
+
+## 🎨 Drawing
+
+- <https://www.easydrawingtutorials.com/>
+- <https://svgporn.com/>
+- <https://www.artbreeder.com/>
