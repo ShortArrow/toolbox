@@ -1,5 +1,28 @@
 # toolbox
 
+## 🧰Scramble
+
+- <https://en.rakko.tools/>
+- <https://chat.openai.com/>
+
+## Developers portal
+
+- <https://developers.google.com/>
+- <https://developer.apple.com/>
+- <https://developers.facebook.com/>
+- <https://developer.amazon.com/>
+- <https://developer.microsoft.com/>
+- <https://developer.twitter.com/>
+- <https://developer.nvidia.com/>
+- <https://netflix.github.io/>
+- <https://developer.uber.com/>
+- <https://developer.spotify.com/>
+- <https://developer.autodesk.com/>
+- <https://developer.baidu.com/>
+- <https://developer.alibaba.com/>
+- <https://developer.tencent.com/>
+- <https://developer.huawei.com/>
+
 ## ⌨️Keyboard
 
 - <https://www.keycaps.info/>
@@ -37,6 +60,8 @@
 
 ## 🍯Code sandbox
 
+- <https://vscode.dev/>
+- <https://paiza.io/>
 - <https://codepen.io/>
 - <https://stackblitz.com/>
 - <https://jsfiddle.net/>
