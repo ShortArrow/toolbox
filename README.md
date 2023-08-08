@@ -19,11 +19,36 @@
 - <https://www.w3schools.com/js/js_regexp.asp>
 - <https://www.w3schools.com/java/java_regex.asp>
 
+## Analytics
+
+- <https://ossinsight.io/>
+- <https://trends.google.co.jp/trends/explore>
+
 ## Math
 
 - <https://www.wolfram.com/mathematica/>
+- <https://keisan.casio.jp/>
+- <https://keisan.casio.com/>
 
-## Code
+## Code sandbox
 
 - <https://codepen.io/>
-- 
+- <https://stackblitz.com/>
+- <https://jsfiddle.net/>
+- <https://jsbin.com/>
+- <https://playcode.io/>
+- <https://www.sololearn.com/compiler-playground/>
+- <https://codesandbox.io/>
+
+## Network
+
+- <https://fast.com/en>
+
+## Electro
+
+- <https://www.denkikeisan.com/>
+
+## Search
+
+- <https://searx.org/search>
+- <https://duckduckgo.com/>
