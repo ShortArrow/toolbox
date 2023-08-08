@@ -1,15 +1,15 @@
 # toolbox
 
-## Keyboard
+## ⌨️Keyboard
 
 - <https://www.keycaps.info/>
 
-## Crypt
+## 🔣Crypt
 
 - <https://gchq.github.io/CyberChef/>
 - <https://jwt.io/>
 
-## Regex
+## ✳️Regex
 
 - <https://regexr.com/>
 - <https://regexper.com/>
@@ -19,18 +19,18 @@
 - <https://www.w3schools.com/js/js_regexp.asp>
 - <https://www.w3schools.com/java/java_regex.asp>
 
-## Analytics
+## 📈Analytics
 
 - <https://ossinsight.io/>
 - <https://trends.google.co.jp/trends/explore>
 
-## Math
+## 📐Math
 
 - <https://www.wolfram.com/mathematica/>
 - <https://keisan.casio.jp/>
 - <https://keisan.casio.com/>
 
-## Code sandbox
+## 🍯Code sandbox
 
 - <https://codepen.io/>
 - <https://stackblitz.com/>
@@ -40,15 +40,15 @@
 - <https://www.sololearn.com/compiler-playground/>
 - <https://codesandbox.io/>
 
-## Network
+## 🌐Network
 
 - <https://fast.com/en>
 
-## Electro
+## ⚡Electro
 
 - <https://www.denkikeisan.com/>
 
-## Search
+## 🔎Search
 
 - <https://searx.org/search>
 - <https://duckduckgo.com/>
