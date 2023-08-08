@@ -23,6 +23,10 @@
 - <https://developer.tencent.com/>
 - <https://developer.huawei.com/>
 
+## Hardware
+
+- <https://kakaku.com/pc/article/homebuilt-pc-parts>
+
 ## ⌨️Keyboard
 
 - <https://www.keycaps.info/>
