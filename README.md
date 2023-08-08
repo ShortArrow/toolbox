@@ -90,6 +90,7 @@
 
 ## 🎨 Drawing
 
+- <https://spline.design/>
 - <https://www.easydrawingtutorials.com/>
 - <https://svgporn.com/>
 - <https://www.artbreeder.com/>
