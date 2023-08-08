@@ -7,6 +7,7 @@
 ## Crypt
 
 - <https://gchq.github.io/CyberChef/>
+- <https://jwt.io/>
 
 ## Regex
 
