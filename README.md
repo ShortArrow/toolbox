@@ -35,6 +35,14 @@
 
 - <https://gchq.github.io/CyberChef/>
 - <https://jwt.io/>
+- <https://www.qrcode.com/en/index.html>
+
+## Graph
+
+- <https://app.diagrams.net/>
+- <https://mermaid.live/>
+- <https://play.d2lang.com/>
+- <https://dbdiagram.io/>
 
 ## ✳️Regex
 
