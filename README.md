@@ -44,8 +44,8 @@
 |icon|name|url|
 |:-:|:-:|:-|
 |<img width="20em" src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/favicon.ico">|CyberChef|https://gchq.github.io/CyberChef/
-|<img width="20em" src="https://jwt.io/img/favicon/android-icon-192x192.png">||https://jwt.io/
-|<img width="20em" src="">||https://www.qrcode.com/en/index.html
+|<img width="20em" src="https://jwt.io/img/favicon/android-icon-192x192.png">|JWT|https://jwt.io/
+|<img width="20em" src="">|QR|https://www.qrcode.com/en/index.html
 
 ## Graph
 
@@ -62,54 +62,53 @@
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="">||https://regexr.com/
-|<img width="20em" src="">||https://regexper.com/
-|<img width="20em" src="">||https://regex101.com/
-|<img width="20em" src="">||https://www.w3schools.com/python/python_regex.asp
-|<img width="20em" src="">||https://www.w3schools.com/php/php_regex.asp
-|<img width="20em" src="">||https://www.w3schools.com/js/js_regexp.asp
-|<img width="20em" src="">||https://www.w3schools.com/java/java_regex.asp
+|<img width="20em" src="">|RegExr|https://regexr.com/
+|<img width="20em" src="">|Regexper|https://regexper.com/
+|<img width="20em" src="">|Regex101|https://regex101.com/
+|<img width="20em" src="">|W3C|https://www.w3schools.com/python/python_regex.asp
+|<img width="20em" src="">|W3C|https://www.w3schools.com/php/php_regex.asp
+|<img width="20em" src="">|W3C|https://www.w3schools.com/js/js_regexp.asp
+|<img width="20em" src="">|W3C|https://www.w3schools.com/java/java_regex.asp
 
 ## 📈Analytics
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="">||https://ossinsight.io/
-|<img width="20em" src="">||https://trends.google.co.jp/trends/explore
-|<img width="20em" src="">||https://tradingview.com/
-|<img width="20em" src="">||https://www.tradingview.com/
-|<img width="20em" src="">||https://coinmarketcap.com/
-|<img width="20em" src="">||https://demo-futures.kraken.com/
-|<img width="20em" src="">||https://www.coingecko.com/
+|<img width="20em" src="">|OSS Insight|https://ossinsight.io/
+|<img width="20em" src="">|Google trends|https://trends.google.co.jp/trends/explore
+|<img width="20em" src="">|TradingView|https://tradingview.com/
+|<img width="20em" src="">|CoinMarketCap|https://coinmarketcap.com/
+|<img width="20em" src="">|Kraken|https://demo-futures.kraken.com/
+|<img width="20em" src="">|CoinGecko|https://www.coingecko.com/
 
 ## 📐Math
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="">||https://www.geogebra.org/calculator
-|<img width="20em" src="">||https://www.wolfram.com/mathematica/
-|<img width="20em" src="">||https://keisan.casio.jp/
-|<img width="20em" src="">||https://keisan.casio.com/
+|<img width="20em" src="">|GeoGebra|https://www.geogebra.org/calculator
+|<img width="20em" src="https://cdn.simpleicons.org/wolframmathematica">|Wolfram Mathematica|https://www.wolfram.com/mathematica/
+|<img width="20em" src="">|Ke!san(jpn)|https://keisan.casio.jp/
+|<img width="20em" src="">|Ke!san|https://keisan.casio.com/
 
 ## 🍯Code sandbox
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="https://cdn.svgporn.com/logos/vscode.svg">||https://vscode.dev/
+|<img width="20em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|VSCode.dev|https://vscode.dev/
 |<img width="20em" src="">||https://paiza.io/
-|<img width="20em" src="https://cdn.simpleicons.org/codepen/000000/FFFFFF">||https://codepen.io/
-|<img width="20em" src="">||https://stackblitz.com/
-|<img width="20em" src="">||https://jsfiddle.net/
+|<img width="20em" src="https://cdn.simpleicons.org/codepen/000000/FFFFFF">|Codepen|https://codepen.io/
+|<img width="20em" src="https://cdn.simpleicons.org/stackblitz">|StackBlitz|https://stackblitz.com/
+|<img width="20em" src="https://cdn.simpleicons.org/jsfiddle">|jsFiddle|https://jsfiddle.net/
 |<img width="20em" src="">||https://jsbin.com/
 |<img width="20em" src="">||https://playcode.io/
-|<img width="20em" src="">||https://www.sololearn.com/compiler-playground/
+|<img width="20em" src="https://cdn.simpleicons.org/sololearn">||https://www.sololearn.com/compiler-playground/
 |<img width="20em" src="https://cdn.simpleicons.org/codesandbox">||https://codesandbox.io/
 
 ## 🌐Network
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="">||https://fast.com/en
+|<img width="20em" src="">|Fast.com|https://fast.com/en
 
 ## ⚡Electro
 
@@ -121,14 +120,14 @@
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="https://searx.org/favicon.ico">||https://searx.org/search
-|<img width="20em" src="https://cdn.simpleicons.org/duckduckgo">||https://duckduckgo.com/
+|<img width="20em" src="https://searx.org/favicon.ico">|SearX|https://searx.org/search
+|<img width="20em" src="https://cdn.simpleicons.org/duckduckgo">|Duckduckgo|https://duckduckgo.com/
 
 ## 🎨 Drawing
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="">||https://spline.design/
+|<img width="20em" src="">|Spline|https://spline.design/
 |<img width="20em" src="">||https://www.easydrawingtutorials.com/
-|<img width="20em" src="https://svgporn.com/brand/favicon-16x16.png">||https://svgporn.com/
+|<img width="20em" src="https://svgporn.com/brand/favicon-16x16.png">|SVG Porn|https://svgporn.com/
 |<img width="20em" src="">||https://www.artbreeder.com/
