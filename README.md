@@ -4,131 +4,131 @@
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://en.rakko.tools/
-|||https://chat.openai.com/
+|<img width="20em" src="https://rakko.tools/favicon.ico">|rakko tools|https://en.rakko.tools/
+|<img width="20em" src="https://cdn.simpleicons.org/openai">|chatGPT|https://chat.openai.com/
 
 ## Developers portal
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://developers.google.com/
-|||https://developer.apple.com/
-|||https://developers.facebook.com/
-|||https://developer.amazon.com/
-|||https://developer.microsoft.com/
-|||https://developer.twitter.com/
-|||https://developer.nvidia.com/
-|||https://netflix.github.io/
-|||https://developer.uber.com/
-|||https://developer.spotify.com/
-|||https://developer.autodesk.com/
-|||https://developer.baidu.com/
-|||https://developer.alibaba.com/
-|||https://developer.tencent.com/
-|||https://developer.huawei.com/
+|<img width="20em" src="https://cdn.simpleicons.org/google">|Google developers|https://developers.google.com/
+|<img width="20em" src="https://cdn.simpleicons.org/apple">|Apple developers|https://developer.apple.com/
+|<img width="20em" src="https://cdn.simpleicons.org/facebook">|Facebook developers|https://developers.facebook.com/
+|<img width="20em" src="https://cdn.simpleicons.org/amazon">|Amazon developers|https://developer.amazon.com/
+|<img width="20em" src="https://cdn.simpleicons.org/microsoft">|Microsoft developers|https://developer.microsoft.com/
+|<img width="20em" src="https://cdn.simpleicons.org/twitter">|Twitter developers|https://developer.twitter.com/
+|<img width="20em" src="https://cdn.simpleicons.org/nvidia">|Nvidia developers|https://developer.nvidia.com/
+|<img width="20em" src="https://cdn.simpleicons.org/netflix">|Netflix developers|https://netflix.github.io/
+|<img width="20em" src="https://cdn.simpleicons.org/uber">|Uber developers|https://developer.uber.com/
+|<img width="20em" src="https://cdn.simpleicons.org/spotify">|Spotify developers|https://developer.spotify.com/
+|<img width="20em" src="https://cdn.simpleicons.org/autodesk">|AutoDesk developers|https://developer.autodesk.com/
+|<img width="20em" src="https://cdn.simpleicons.org/baidu">|Baidu developers|https://developer.baidu.com/
+|<img width="20em" src="https://cdn.simpleicons.org/alibaba">|Alibaba developers|https://developer.alibaba.com/
+|<img width="20em" src="https://cdn.simpleicons.org/tencent">|Tencent developers|https://developer.tencent.com/
+|<img width="20em" src="https://cdn.simpleicons.org/huawei">|Huawei developers|https://developer.huawei.com/
 
 ## Hardware
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://kakaku.com/pc/article/homebuilt-pc-parts
+|<img width="20em" src="https://cdn.simpleicons.org/">|Kakaku.com|https://kakaku.com/pc/article/homebuilt-pc-parts
 
 ## ⌨️Keyboard
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://www.keycaps.info/
+|<img width="20em" src="https://www.keycaps.info/favicon.ico">|Keycaps|https://www.keycaps.info/
 
 ## 🔣Crypt
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://gchq.github.io/CyberChef/
-|||https://jwt.io/
-|||https://www.qrcode.com/en/index.html
+|<img width="20em" src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/favicon.ico">|CyberChef|https://gchq.github.io/CyberChef/
+|<img width="20em" src="https://jwt.io/img/favicon/android-icon-192x192.png">||https://jwt.io/
+|<img width="20em" src="">||https://www.qrcode.com/en/index.html
 
 ## Graph
 
 |icon|name|url|
 |:-:|:-:|:-|
-||excalidraw|https://excalidraw.com/
-||draw.io|https://app.diagrams.net/
-||Mermaid|https://mermaid.live/
-||D2|https://play.d2lang.com/
-||dbdiagram|https://dbdiagram.io/
-||TableGenerater|https://www.tablesgenerator.com/
+|<img width="20em" src="">|excalidraw|https://excalidraw.com/
+|<img width="20em" src="">|draw.io|https://app.diagrams.net/
+|<img width="20em" src="">|Mermaid|https://mermaid.live/
+|<img width="20em" src="">|D2|https://play.d2lang.com/
+|<img width="20em" src="">|dbdiagram|https://dbdiagram.io/
+|<img width="20em" src="">|TableGenerater|https://www.tablesgenerator.com/
 
 ## ✳️Regex
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://regexr.com/
-|||https://regexper.com/
-|||https://regex101.com/
-|||https://www.w3schools.com/python/python_regex.asp
-|||https://www.w3schools.com/php/php_regex.asp
-|||https://www.w3schools.com/js/js_regexp.asp
-|||https://www.w3schools.com/java/java_regex.asp
+|<img width="20em" src="">||https://regexr.com/
+|<img width="20em" src="">||https://regexper.com/
+|<img width="20em" src="">||https://regex101.com/
+|<img width="20em" src="">||https://www.w3schools.com/python/python_regex.asp
+|<img width="20em" src="">||https://www.w3schools.com/php/php_regex.asp
+|<img width="20em" src="">||https://www.w3schools.com/js/js_regexp.asp
+|<img width="20em" src="">||https://www.w3schools.com/java/java_regex.asp
 
 ## 📈Analytics
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://ossinsight.io/
-|||https://trends.google.co.jp/trends/explore
-|||https://tradingview.com/
-|||https://www.tradingview.com/
-|||https://coinmarketcap.com/
-|||https://demo-futures.kraken.com/
-|||https://www.coingecko.com/
+|<img width="20em" src="">||https://ossinsight.io/
+|<img width="20em" src="">||https://trends.google.co.jp/trends/explore
+|<img width="20em" src="">||https://tradingview.com/
+|<img width="20em" src="">||https://www.tradingview.com/
+|<img width="20em" src="">||https://coinmarketcap.com/
+|<img width="20em" src="">||https://demo-futures.kraken.com/
+|<img width="20em" src="">||https://www.coingecko.com/
 
 ## 📐Math
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://www.geogebra.org/calculator
-|||https://www.wolfram.com/mathematica/
-|||https://keisan.casio.jp/
-|||https://keisan.casio.com/
+|<img width="20em" src="">||https://www.geogebra.org/calculator
+|<img width="20em" src="">||https://www.wolfram.com/mathematica/
+|<img width="20em" src="">||https://keisan.casio.jp/
+|<img width="20em" src="">||https://keisan.casio.com/
 
 ## 🍯Code sandbox
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://vscode.dev/
-|||https://paiza.io/
-|||https://codepen.io/
-|||https://stackblitz.com/
-|||https://jsfiddle.net/
-|||https://jsbin.com/
-|||https://playcode.io/
-|||https://www.sololearn.com/compiler-playground/
-|||https://codesandbox.io/
+|<img width="20em" src="https://cdn.svgporn.com/logos/vscode.svg">||https://vscode.dev/
+|<img width="20em" src="">||https://paiza.io/
+|<img width="20em" src="https://cdn.simpleicons.org/codepen">||https://codepen.io/
+|<img width="20em" src="">||https://stackblitz.com/
+|<img width="20em" src="">||https://jsfiddle.net/
+|<img width="20em" src="">||https://jsbin.com/
+|<img width="20em" src="">||https://playcode.io/
+|<img width="20em" src="">||https://www.sololearn.com/compiler-playground/
+|<img width="20em" src="https://cdn.simpleicons.org/codesandbox">||https://codesandbox.io/
 
 ## 🌐Network
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://fast.com/en
+|<img width="20em" src="">||https://fast.com/en
 
 ## ⚡Electro
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://www.denkikeisan.com/
+|<img width="20em" src="">||https://www.denkikeisan.com/
 
 ## 🔎Search
 
 |icon|name|url|
 |:-:|:-:|:-|
-|![](https://searx.org/favicon.ico)||https://searx.org/search
-|||https://duckduckgo.com/
+|<img width="20em" src="https://searx.org/favicon.ico">||https://searx.org/search
+|<img width="20em" src="https://cdn.simpleicons.org/duckduckgo">||https://duckduckgo.com/
 
 ## 🎨 Drawing
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://spline.design/
-|||https://www.easydrawingtutorials.com/
-|||https://svgporn.com/
-|||https://www.artbreeder.com/
+|<img width="20em" src="">||https://spline.design/
+|<img width="20em" src="">||https://www.easydrawingtutorials.com/
+|<img width="20em" src="https://svgporn.com/brand/favicon-16x16.png">||https://svgporn.com/
+|<img width="20em" src="">||https://www.artbreeder.com/
