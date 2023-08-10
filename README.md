@@ -55,7 +55,7 @@
 |<img width="20em" src="">|draw.io|https://app.diagrams.net/
 |<img width="20em" src="">|Mermaid|https://mermaid.live/
 |<img width="20em" src="">|D2|https://play.d2lang.com/
-|<img width="20em" src="">|dbdiagram|https://dbdiagram.io/
+|<img width="20em" src="https://cdn.holistics.io/logo-dbdiagram-notext.ico">|dbdiagram|https://dbdiagram.io/
 |<img width="20em" src="">|TableGenerater|https://www.tablesgenerator.com/
 
 ## ✳️Regex
