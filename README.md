@@ -97,7 +97,7 @@
 |:-:|:-:|:-|
 |<img width="20em" src="https://cdn.svgporn.com/logos/vscode.svg">||https://vscode.dev/
 |<img width="20em" src="">||https://paiza.io/
-|<img width="20em" src="https://cdn.simpleicons.org/codepen">||https://codepen.io/
+|<img width="20em" src="https://cdn.simpleicons.org/codepen/000000/FFFFFF">||https://codepen.io/
 |<img width="20em" src="">||https://stackblitz.com/
 |<img width="20em" src="">||https://jsfiddle.net/
 |<img width="20em" src="">||https://jsbin.com/
