@@ -4,7 +4,7 @@
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="https://rakko.tools/favicon.ico">|rakko tools|https://en.rakko.tools/
+|<img width="20em" src="https://en.rakko.tools/image/favicon_rakko.ico">|rakko tools|https://en.rakko.tools/
 |<img width="20em" src="https://cdn.simpleicons.org/openai">|chatGPT|https://chat.openai.com/
 
 ## Developers portal
@@ -60,7 +60,7 @@
 
 ## ✳️Regex
 
-|icon|name|url|
+|icon|name|url|baseline
 |:-:|:-:|:-|
 |<img width="20em" src="">||https://regexr.com/
 |<img width="20em" src="">||https://regexper.com/
