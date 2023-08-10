@@ -60,7 +60,7 @@
 
 ## ✳️Regex
 
-|icon|name|url|baseline
+|icon|name|url|
 |:-:|:-:|:-|
 |<img width="20em" src="">||https://regexr.com/
 |<img width="20em" src="">||https://regexper.com/
