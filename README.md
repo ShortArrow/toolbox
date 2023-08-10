@@ -62,13 +62,13 @@
 
 |icon|name|url|
 |:-:|:-:|:-|
-|<img width="20em" src="">|RegExr|https://regexr.com/
-|<img width="20em" src="">|Regexper|https://regexper.com/
-|<img width="20em" src="">|Regex101|https://regex101.com/
-|<img width="20em" src="">|W3C|https://www.w3schools.com/python/python_regex.asp
-|<img width="20em" src="">|W3C|https://www.w3schools.com/php/php_regex.asp
-|<img width="20em" src="">|W3C|https://www.w3schools.com/js/js_regexp.asp
-|<img width="20em" src="">|W3C|https://www.w3schools.com/java/java_regex.asp
+|<img width="20em" src="https://cdn.jsdelivr.net/npm/heroicons/24/solid/question-mark-circle.svg">|RegExr|https://regexr.com/
+|<img width="20em" src="https://cdn.jsdelivr.net/npm/heroicons/24/solid/question-mark-circle.svg">|Regexper|https://regexper.com/
+|<img width="20em" src="https://cdn.jsdelivr.net/npm/heroicons/24/solid/question-mark-circle.svg">|Regex101|https://regex101.com/
+|<img width="20em" src="https://cdn.simpleicons.org/w3c">|W3C|https://www.w3schools.com/python/python_regex.asp
+|<img width="20em" src="https://cdn.simpleicons.org/w3c">|W3C|https://www.w3schools.com/php/php_regex.asp
+|<img width="20em" src="https://cdn.simpleicons.org/w3c">|W3C|https://www.w3schools.com/js/js_regexp.asp
+|<img width="20em" src="https://cdn.simpleicons.org/w3c">|W3C|https://www.w3schools.com/java/java_regex.asp
 
 ## 📈Analytics
 
