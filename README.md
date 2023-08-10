@@ -121,7 +121,7 @@
 
 |icon|name|url|
 |:-:|:-:|:-|
-|||https://searx.org/search
+|![](https://searx.org/favicon.ico)||https://searx.org/search
 |||https://duckduckgo.com/
 
 ## 🎨 Drawing
