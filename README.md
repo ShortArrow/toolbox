@@ -12,16 +12,16 @@
 |icon|name|url|
 |:-:|:-:|:-|
 |<img width="20em" src="https://cdn.simpleicons.org/google">|Google developers|https://developers.google.com/
-|<img width="20em" src="https://cdn.simpleicons.org/apple">|Apple developers|https://developer.apple.com/
+|<img width="20em" src="https://cdn.simpleicons.org/apple/000000/FFFFFF">|Apple developers|https://developer.apple.com/
 |<img width="20em" src="https://cdn.simpleicons.org/facebook">|Facebook developers|https://developers.facebook.com/
 |<img width="20em" src="https://cdn.simpleicons.org/amazon">|Amazon developers|https://developer.amazon.com/
 |<img width="20em" src="https://cdn.simpleicons.org/microsoft">|Microsoft developers|https://developer.microsoft.com/
 |<img width="20em" src="https://cdn.simpleicons.org/twitter">|Twitter developers|https://developer.twitter.com/
 |<img width="20em" src="https://cdn.simpleicons.org/nvidia">|Nvidia developers|https://developer.nvidia.com/
 |<img width="20em" src="https://cdn.simpleicons.org/netflix">|Netflix developers|https://netflix.github.io/
-|<img width="20em" src="https://cdn.simpleicons.org/uber">|Uber developers|https://developer.uber.com/
+|<img width="20em" src="https://cdn.simpleicons.org/uber/000000/FFFFFF">|Uber developers|https://developer.uber.com/
 |<img width="20em" src="https://cdn.simpleicons.org/spotify">|Spotify developers|https://developer.spotify.com/
-|<img width="20em" src="https://cdn.simpleicons.org/autodesk">|AutoDesk developers|https://developer.autodesk.com/
+|<img width="20em" src="https://cdn.simpleicons.org/autodesk/000000/FFFFFF">|AutoDesk developers|https://developer.autodesk.com/
 |<img width="20em" src="https://cdn.simpleicons.org/baidu">|Baidu developers|https://developer.baidu.com/
 |<img width="20em" src="https://cdn.simpleicons.org/alibaba">|Alibaba developers|https://developer.alibaba.com/
 |<img width="20em" src="https://cdn.simpleicons.org/tencent">|Tencent developers|https://developer.tencent.com/
