@@ -6,6 +6,7 @@
 |:-:|:-:|:-|
 |<img width="20em" src="https://en.rakko.tools/image/favicon_rakko.ico">|rakko tools|https://en.rakko.tools/
 |<img width="20em" src="https://cdn.simpleicons.org/openai">|chatGPT|https://chat.openai.com/
+|<img width="20em" src="https://cdn.simpleicons.org/google">|Google Spam Reports|https://search.google.com/search-console/report-spam/
 
 ## Developers portal
 
